@@ -74,12 +74,3 @@ To run this project locally, follow these steps:
     ```
     This will open the Jupyter interface in your browser, where you can navigate to and run the `Big_Mart_Sales_Prediction.ipynb` notebook.
 
------
-
-## 🤝 Contributing
-
-Feel free to fork this repository, open issues, or submit pull requests. Any contributions to improve the model, analysis, or code are welcome\!
-
-## 📞 Contact
-
-For any questions or suggestions, you can reach out via my GitHub profile.
